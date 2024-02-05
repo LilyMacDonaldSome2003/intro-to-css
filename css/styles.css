@@ -17,3 +17,9 @@ header, footer {
     background-color: #000;
     color: #DEC9E9;
 }
+
+.wrapper {
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 2em;
+}
