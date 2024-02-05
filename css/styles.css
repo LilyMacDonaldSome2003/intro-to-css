@@ -23,3 +23,8 @@ header, footer {
     margin: 0 auto;
     padding: 2em;
 }
+
+ul, ol {
+    padding: 0;
+    list-style: none;
+} 
