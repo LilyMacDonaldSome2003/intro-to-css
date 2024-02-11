@@ -52,3 +52,8 @@ li:nth-child(even) {
     color: #dc33dc;
 }
 
+img {
+    width: 100%;
+
+}
+
